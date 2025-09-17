@@ -40,7 +40,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=600&lines=Biotechnologist+%7C+Bioinformatician;Computational+Biologist+%7C+Tool+Builder;Drug+Discovery+%7C+MD+Simulations;Synthetic+Biology+%7C+Metabolic+Engineering)](https://git.io/typing-svg)
 
 ## 🐍 Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=AtharvaTilewale&theme=dark)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=AtharvaTilewale&theme=dark&color_snake=#FFBC36)
 
 ## 🔥 GitHub Stats Dashboard
 <p align="center">
