@@ -65,7 +65,12 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
 Here are some of the open-source projects I'm passionate about.
 
 <p align="center">
-
+  <a href="https://github.com/AtharvaTilewale/Boltz-Notebook">
+    <img title="Boltz-Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Boltz-Notebook&theme=tokyonight">
+  </a>
+  <a href="https://github.com/AtharvaTilewale/Genome-Inspector">
+    <img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome-Inspector&theme=tokyonight">
+  </a>
 </p>
 
 ---
