@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm a computational biologist with a passion for turning complex biological data into actionable insights. My work focuses on **drug discovery, microbiome research, and molecular dynamics simulations**. I enjoy building open-source tools that empower researchers and accelerate scientific discovery.
+I'm a computational biologist with a passion for turning complex biological data into actionable insights. My work focuses on **drug discovery, protein engineering, and molecular dynamics simulations**. I enjoy building open-source tools that empower researchers and accelerate scientific discovery.
 
-> 🚀 **My Vision**: To build an AI-driven bioinformatics operating system and automated pipelines that redefine how we approach challenges in the life sciences.
+> **My Vision**: To design AI-powered pipelines and platforms that accelerate drug discovery, genome analysis, and systems biology — making breakthroughs in healthcare and biotechnology more accessible.
 
 ---
 
@@ -32,24 +32,30 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
   <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
   <a href="#"><img alt="Biopython" src="https://img.shields.io/badge/Biopython-a73b4e?style=for-the-badge"></a>
   <a href="#"><img alt="GROMACS" src="https://img.shields.io/badge/GROMACS-0072C6?style=for-the-badge&logo=gromacs&logoColor=white"></a>
-  <a href="#"><img alt="PyMOL" src="https://img.shields.io/badge/PyMOL-3D84A8?style=for-the-badge"></a>
   <a href="#"><img alt="MDAnalysis" src="https://img.shields.io/badge/MDAnalysis-FF7A00?style=for-the-badge"></a>
-  <a href="#"><img alt="AutoDock" src="https://img.shields.io/badge/AutoDock-87C233?style=for-the-badge"></a>
+  <a href="#"><img alt="Schrödinger" src="https://img.shields.io/badge/Schrödinger-005F99?style=for-the-badge&logo=schrodinger&logoColor=white"></a>
+  <a href="#"><img alt="FoldX" src="https://img.shields.io/badge/FoldX-4B0082?style=for-the-badge"></a>
+  <a href="#"><img alt="BoltZ" src="https://img.shields.io/badge/BoltZ-FF4500?style=for-the-badge"></a>
+  <a href="#"><img alt="ProteinMPNN" src="https://img.shields.io/badge/ProteinMPNN-008080?style=for-the-badge"></a>
+  <a href="#"><img alt="Rosetta" src="https://img.shields.io/badge/Rosetta-2F4F4F?style=for-the-badge"></a>
 </p>
 <p align="center">
   <strong>Data Science & AI</strong><br>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge"></a>
+
 </p>
 <p align="center">
   <strong>Developer Tools & Platforms</strong><br>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Conda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
 
 ---
