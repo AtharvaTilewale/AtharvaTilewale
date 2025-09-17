@@ -82,6 +82,9 @@ Here are some of the open-source projects I'm passionate about.
 ## GitHub Stats & Activity Dashboard
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&show_icons=true&theme=tokyonight&count_private=true" alt="Atharva's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br><br>
