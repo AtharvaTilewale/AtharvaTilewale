@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Atharva Tilewale
+<!-- # <div align="center"> Welcome to Atharva's Digital Universe </div> -->
 
-### Biotechnologist | Bioinformatician | Computational Biologist
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,30:7400b8,60:6930c3,100:4ea8de&height=200&section=header&text=Atharva%20Tilewale&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Biotechnologist%20%7C%20Bioinformatician%20%7C%20Computational%20Biologist&descAlignY=51&descAlign=center" alt="Header"/>
+</div>
+<!-- # Hi 👋, I'm Atharva Tilewale
+### Biotechnologist | Bioinformatician | Computational Biologist -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -89,7 +93,7 @@ Here are some of the open-source projects I'm passionate about.
 
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&theme=tokyonight&hide_border=true&area=true&line=3393FF" alt="Contribution Graph" />-->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&custom_title=Atharva's%20Contribution%20Graph&hide_border=true&border_radius=20&bg_color=0D1117&color=5E60CE&line=7400B8&point=6930C3&area_color=5390D9&title_color=4EA8DE&area=true&height=400" alt="GitHub Activity Graph" " />
 </p>
 
 
@@ -115,6 +119,11 @@ I'm always open to discussing new projects, research ideas, or collaboration opp
   </a>
 </p>
 
----
+<br>
 
 > ⭐️ *"Turning biological complexity into computational clarity."*
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,30:7400b8,60:6930c3,100:4ea8de&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer"/>
+</div>
