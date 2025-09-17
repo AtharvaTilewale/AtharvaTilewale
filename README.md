@@ -64,12 +64,13 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
 
 Here are some of the open-source projects I'm passionate about.
 
-| Project                                                    | Description                                                          | Technologies Used                               |
-| ---------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------- |
-| 🔹 **[GRAVITY](https://github.com/AtharvaTilewale)** | A GROMACS Rapid Analysis & Visualization Interface Tool (MD Tool).   | `Python`, `GROMACS`, `MDAnalysis`, `Bash`       |
-| 🔹 **[FEL-PCA Pipeline](https://github.com/AtharvaTilewale)** | Automates PCA & Free Energy Landscape analysis from MD simulations.  | `Python`, `GROMACS`, `Matplotlib`               |
-| 🔹 **[Genome Inspector](https://github.com/AtharvaTilewale)** | A comprehensive DNA sequence analysis tool built with Biopython.     | `Python`, `Biopython`, `Streamlit`              |
-| 🔹 **[NuSIT](https://github.com/AtharvaTilewale)** | A CLI tool for identifying Nucleotide Sequences (NuSIT).             | `Python`, `Biopython`, `argparse`               |
+<p align="center">
+  <a href="https://github.com/AtharvaTilewale/GRAVITy"><img title="GRAVITY" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=GRAVITy&theme=radical"></a>
+  <a href="https://github.com/AtharvaTilewale/Genome-Inspector"><img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome-Inspector&theme=highcontrast"></a>
+  <!-- <a href="https://github.com/AtharvaTilewale/NuSIT"><img title="NuSIT" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=NuSIT&theme=vision-friendly-dark"></a> -->
+  <!-- <a href="https://github.com/AtharvaTilewale/FEL-PCA-Pipeline"><img title="FEL-PCA-Pipeline" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=FEL-PCA-Pipeline&theme=dark"></a> -->
+  <a href="https://github.com/AtharvaTilewale/Boltz-Notebook"><img title="Boltz-Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Boltz-Notebook&theme=tokyonight"></a>
+</p>
 
 ---
 
