@@ -27,7 +27,7 @@ I'm a computational biologist with a passion for turning complex biological data
 This is my tech stack—the tools and technologies I use to build, analyze, and innovate.
 
 <p align="center">
-  <strong>Bioinformatics & Computational Biology</strong><br><br>
+  <strong>Bioinformatics & Computational Biology</strong><br>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
   <a href="#"><img alt="Biopython" src="https://img.shields.io/badge/Biopython-a73b4e?style=for-the-badge"></a>
@@ -41,14 +41,14 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
 </p>
 
 <p align="center">
-  <strong>Data Science & AI</strong><br><br>
+  <strong>Data Science & AI</strong><br>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <strong>Developer Tools & Platforms</strong><br><br>
+  <strong>Developer Tools & Platforms</strong><br>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
