@@ -24,14 +24,32 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=radical" alt="langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaTilewale&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaTilewale&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=radical&margin-w=10&margin-h=10&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&theme=redical&hide_border=true" />
 </p>
 
 ---
