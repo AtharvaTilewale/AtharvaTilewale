@@ -4,7 +4,11 @@
 
 ### Biotechnologist | Bioinformatician | Computational Biologist
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3393FF&width=600&lines=Passionate+about+Drug+Discovery+%26+MD+Simulations     ;Developer+of+Open-Source+Bioinformatics+Tools   ;Exploring+the+intersection+of+AI+%2B+Computational+Biology        " alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&size=22&pause=1000&color=3393FF&center=true&dynamicWidth=true&width=800&lines=Passionate+about+Drug+Discovery+%26+MD+Simulations;Developer+of+Open-Source+Bioinformatics+Tools;Exploring+the+intersection+of+AI+%2B+Computational+Biology" alt="Typing SVG" />
+  </a>
+</div>
 
 </div>
 
@@ -66,24 +70,14 @@ Here are some of the open-source projects I'm passionate about.
 ## 📈 GitHub Stats & Activity Dashboard
 
 <div align="center">
-
-<table style="border-collapse: collapse">
-  <tr>
-    <td style="border: none;" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&show_icons=true&theme=tokyonight&count_private=true" alt="Atharva's GitHub Stats" />
-    </td>
-    <td style="border: none;" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none;" width="100%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=tokyonight" alt="Contribution Graph"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&show_icons=true&theme=tokyonight&count_private=true" alt="Atharva's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <br><br>
+</div>
 
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&theme=tokyonight&hide_border=true&area=true&line=3393FF" alt="Contribution Graph" />-->
 <p align="center">
