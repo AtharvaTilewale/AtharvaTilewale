@@ -53,6 +53,11 @@
 </p>
 
 ---
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&theme=redical&hide_border=true" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
