@@ -34,18 +34,19 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
   <a href="#"><img alt="GROMACS" src="https://img.shields.io/badge/GROMACS-0072C6?style=for-the-badge&logo=gromacs&logoColor=white"></a>
   <a href="#"><img alt="MDAnalysis" src="https://img.shields.io/badge/MDAnalysis-FF7A00?style=for-the-badge"></a>
   <a href="#"><img alt="Schrödinger" src="https://img.shields.io/badge/Schrödinger-005F99?style=for-the-badge&logo=schrodinger&logoColor=white"></a>
-  <a href="#"><img alt="FoldX" src="https://img.shields.io/badge/FoldX-4B0082?style=for-the-badge"></a>
+  <!-- <a href="#"><img alt="FoldX" src="https://img.shields.io/badge/FoldX-4B0082?style=for-the-badge"></a>
   <a href="#"><img alt="BoltZ" src="https://img.shields.io/badge/BoltZ-FF4500?style=for-the-badge"></a>
   <a href="#"><img alt="ProteinMPNN" src="https://img.shields.io/badge/ProteinMPNN-008080?style=for-the-badge"></a>
-  <a href="#"><img alt="Rosetta" src="https://img.shields.io/badge/Rosetta-2F4F4F?style=for-the-badge"></a>
+  <a href="#"><img alt="Rosetta" src="https://img.shields.io/badge/Rosetta-2F4F4F?style=for-the-badge"></a> -->
 </p>
+
 <p align="center">
   <strong>Data Science & AI</strong><br>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge"></a>
-
 </p>
+
 <p align="center">
   <strong>Developer Tools & Platforms</strong><br>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
