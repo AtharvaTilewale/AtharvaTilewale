@@ -68,9 +68,7 @@ Here are some of the open-source projects I'm passionate about.
   <a href="https://github.com/AtharvaTilewale/Genome-Inspector">
     <img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome-Inspector&theme=tokyonight">
   </a>
-  <a href="https://github.com/AtharvaTilewale/Boltz-Notebook">
-    <img title="Boltz-Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Boltz-Notebook&theme=tokyonight">
-  </a>
+
 </p>
 
 ---
