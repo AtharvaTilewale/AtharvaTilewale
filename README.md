@@ -22,7 +22,7 @@ I'm a computational biologist with a passion for turning complex biological data
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 This is my tech stack—the tools and technologies I use to build, analyze, and innovate.
 
@@ -60,20 +60,20 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 Here are some of the open-source projects I'm passionate about.
 
 | Project                                                    | Description                                                          | Technologies Used                               |
 | ---------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------- |
 | 🔹 **[GRAVITY](https://github.com/AtharvaTilewale)** | A GROMACS Rapid Analysis & Visualization Interface Tool (MD Tool).   | `Python`, `GROMACS`, `MDAnalysis`, `Bash`       |
+| 🔹 **[FEL-PCA Pipeline](https://github.com/AtharvaTilewale)** | Automates PCA & Free Energy Landscape analysis from MD simulations.  | `Python`, `GROMACS`, `Matplotlib`               |
 | 🔹 **[Genome Inspector](https://github.com/AtharvaTilewale)** | A comprehensive DNA sequence analysis tool built with Biopython.     | `Python`, `Biopython`, `Streamlit`              |
 | 🔹 **[NuSIT](https://github.com/AtharvaTilewale)** | A CLI tool for identifying Nucleotide Sequences (NuSIT).             | `Python`, `Biopython`, `argparse`               |
-| 🔹 **[FEL-PCA Pipeline](https://github.com/AtharvaTilewale)** | Automates PCA & Free Energy Landscape analysis from MD simulations.  | `Python`, `GROMACS`, `Matplotlib`               |
 
 ---
 
-## 📈 GitHub Stats & Activity Dashboard
+## GitHub Stats & Activity Dashboard
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&show_icons=true&theme=tokyonight&count_private=true" alt="Atharva's GitHub Stats" />
@@ -97,15 +97,15 @@ Here are some of the open-source projects I'm passionate about.
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 I'm always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharva-tilewale" target="_blank">
+  <a href="https://www.linkedin.com/in/atharvatilewale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:atharva.tilewale@example.com">
+  <a href="mailto:tilewale.atharva@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/AtharvaTilewale">
