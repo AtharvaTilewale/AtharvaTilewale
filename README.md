@@ -129,6 +129,7 @@ I'm always open to discussing new projects, research ideas, or collaboration opp
 
 ---
 <br>
+
 ## Support My Work
 
 <p align="center">
