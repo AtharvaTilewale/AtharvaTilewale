@@ -132,7 +132,7 @@ I'm always open to discussing new projects, research ideas, or collaboration opp
 ## Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/AtharvaTilewale" target="_blank">
+  <a href="https://www.buymeacoffee.com/atharva16at" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
   <a href="https://www.paypal.me/AtharvaTilewale" target="_blank">
