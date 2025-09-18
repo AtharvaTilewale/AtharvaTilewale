@@ -22,7 +22,7 @@ I'm a **Biotechnologist and Computational Biologist** with a passion for turning
 
 > **My Vision**: To design AI-powered pipelines and platforms that accelerate drug discovery, genome analysis, and systems biology — making breakthroughs in healthcare and biotechnology more accessible.
 
-<br>
+<br><br>
 
 ## Skills & Technologies
 
@@ -65,7 +65,7 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
   <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 </p>
 
-<br>
+<br><br>
 
 ## Featured Projects
 
@@ -79,13 +79,13 @@ Here are some of the open-source projects I'm passionate about.
     <img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome-Inspector&theme=tokyonight&t=20&cache_seconds=864000">
   </a>
 </p>
-<br>
+<br><br>
 
 ## GitHub Stats & Activity Dashboard
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
-</div><br>
+</div><br><br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&count_private=false&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=86400" alt="Atharva's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=518400" alt="Top Languages" />
@@ -105,7 +105,7 @@ Here are some of the open-source projects I'm passionate about.
 ![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=AtharvaTilewale&theme=dark)
 
 </div>
-<br>
+<br><br>
 
 ## Let's Connect
 
@@ -123,7 +123,7 @@ I'm always open to discussing new projects, research ideas, or collaboration opp
   </a>
 </p>
 
-<br>
+<br><br>
 
 > ⭐️ *"Turning biological complexity into computational clarity."*
 
