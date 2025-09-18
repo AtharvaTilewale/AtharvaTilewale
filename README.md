@@ -132,15 +132,16 @@ I'm always open to discussing new projects, research ideas, or collaboration opp
 
 ## Support My Work
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/atharva16at" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+<div align="center">
+  <a href="https://www.buymeacoffee.com/atharva16at">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
+</div>
+<p>
   <a href="https://www.paypal.me/AtharvaTilewale" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,30:7400b8,60:6930c3,100:4ea8de&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer"/>
 </div>
