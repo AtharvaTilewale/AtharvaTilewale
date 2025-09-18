@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a computational biologist with a passion for turning complex biological data into actionable insights. My work focuses on **drug discovery, protein engineering, and molecular dynamics simulations**. I enjoy building open-source tools that empower researchers and accelerate scientific discovery.
+I'm a **Biotechnologist and Computational Biologist** with a passion for turning complex biological data into actionable insights. My work focuses on **drug discovery, protein engineering, and molecular dynamics simulations**. I enjoy building open-source tools that empower researchers and accelerate scientific discovery.
 
 > **My Vision**: To design AI-powered pipelines and platforms that accelerate drug discovery, genome analysis, and systems biology — making breakthroughs in healthcare and biotechnology more accessible.
 
@@ -32,8 +32,6 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
 
 <p align="center">
   <strong>Bioinformatics & Computational Biology</strong><br>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
   <a href="#"><img alt="Biopython" src="https://img.shields.io/badge/Biopython-a73b4e?style=for-the-badge"></a>
   <a href="#"><img alt="GROMACS" src="https://img.shields.io/badge/GROMACS-0072C6?style=for-the-badge&logo=gromacs&logoColor=white"></a>
   <a href="#"><img alt="MDAnalysis" src="https://img.shields.io/badge/MDAnalysis-FF7A00?style=for-the-badge"></a>
@@ -46,6 +44,8 @@ This is my tech stack—the tools and technologies I use to build, analyze, and 
 
 <p align="center">
   <strong>Data Science & AI</strong><br>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge"></a>
