@@ -70,10 +70,10 @@ Here are some of the open-source projects I'm passionate about.
 
 <p align="center">
   <a href="https://github.com/AtharvaTilewale/Boltz-Notebook">
-    <img title="Boltz-Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Boltz-Notebook&theme=tokyonight&t=20">
+    <img title="Boltz-Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Boltz-Notebook&theme=tokyonight&t=20&cache_seconds=86400">
   </a>
   <a href="https://github.com/AtharvaTilewale/Genome-Inspector">
-    <img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome-Inspector&theme=tokyonight&t=20">
+    <img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome-Inspector&theme=tokyonight&t=20&cache_seconds=86400">
   </a>
 </p>
 
@@ -86,17 +86,17 @@ Here are some of the open-source projects I'm passionate about.
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&count_private=false&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=86400" alt="Atharva's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=tokyonight&cache_seconds=86400" alt="GitHub Profile Summary"/>
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=7&cache_seconds=86400" alt="GitHub Trophies" />
   <br><br>
 </div>
 
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&theme=tokyonight&hide_border=true&area=true&line=3393FF" alt="Contribution Graph" />-->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&custom_title=Atharva's%20Contribution%20Graph&hide_border=true&border_radius=20&bg_color=0D1117&color=5E60CE&line=7400B8&point=6930C3&area_color=5390D9&title_color=4EA8DE&area=true&height=400" alt="GitHub Activity Graph" " />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&custom_title=Atharva's%20Contribution%20Graph&hide_border=true&border_radius=20&bg_color=0D1117&color=5E60CE&line=7400B8&point=6930C3&area_color=5390D9&title_color=4EA8DE&area=true&height=400&cache_seconds=86400" alt="GitHub Activity Graph" " />
 </p>
 
 
