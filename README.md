@@ -111,35 +111,47 @@ Here are some of the open-source projects I'm passionate about.
 
 I'm always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to reach out!
 
-<p align="center" style="background:#0d1117; padding:15px; border-radius:12px;">
+<p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/atharvatilewale" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" alt="LinkedIn" style="filter: invert(100%);"/>
+  <a href="https://www.linkedin.com/in/atharvatilewale" target="_blank" style="margin: 0 10px;">
+    <div style="width:50px; height:50px; background:#000; border-radius:12px; display:flex; align-items:center; justify-content:center;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" alt="LinkedIn" style="filter: invert(100%);" />
+    </div>
   </a>
 
   <!-- Email -->
-  <a href="mailto:tilewale.atharva@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" alt="Email" style="filter: invert(100%);"/>
+  <a href="mailto:tilewale.atharva@gmail.com" target="_blank" style="margin: 0 10px;">
+    <div style="width:50px; height:50px; background:#000; border-radius:12px; display:flex; align-items:center; justify-content:center;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" alt="Email" style="filter: invert(100%);" />
+    </div>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/AtharvaTilewale" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="35" alt="GitHub" style="filter: invert(100%);"/>
+  <a href="https://github.com/AtharvaTilewale" target="_blank" style="margin: 0 10px;">
+    <div style="width:50px; height:50px; background:#000; border-radius:12px; display:flex; align-items:center; justify-content:center;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="28" alt="GitHub" style="filter: invert(100%);" />
+    </div>
   </a>
 
   <!-- ResearchGate -->
-  <a href="https://www.researchgate.net/profile/YourProfile" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" height="35" alt="ResearchGate" style="filter: invert(100%);"/>
+  <a href="https://www.researchgate.net/profile/YourProfile" target="_blank" style="margin: 0 10px;">
+    <div style="width:50px; height:50px; background:#000; border-radius:12px; display:flex; align-items:center; justify-content:center;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" height="28" alt="ResearchGate" style="filter: invert(100%);" />
+    </div>
   </a>
 
   <!-- ORCID -->
-  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" height="35" alt="ORCID" style="filter: invert(100%);"/>
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" style="margin: 0 10px;">
+    <div style="width:50px; height:50px; background:#000; border-radius:12px; display:flex; align-items:center; justify-content:center;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" height="28" alt="ORCID" style="filter: invert(100%);" />
+    </div>
   </a>
 
   <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" height="35" alt="Google Scholar" style="filter: invert(100%);"/>
+  <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank" style="margin: 0 10px;">
+    <div style="width:50px; height:50px; background:#000; border-radius:12px; display:flex; align-items:center; justify-content:center;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" height="28" alt="Google Scholar" style="filter: invert(100%);" />
+    </div>
   </a>
 </p>
 
