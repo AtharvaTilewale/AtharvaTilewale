@@ -111,35 +111,35 @@ Here are some of the open-source projects I'm passionate about.
 
 I'm always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to reach out!
 
-<p align="center">
+<p align="center" style="background:#0d1117; padding:15px; border-radius:12px;">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/atharvatilewale" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/atharvatilewale" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" alt="LinkedIn" style="filter: invert(100%);"/>
   </a>
 
   <!-- Email -->
-  <a href="mailto:tilewale.atharva@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Email"/>
+  <a href="mailto:tilewale.atharva@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" alt="Email" style="filter: invert(100%);"/>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/AtharvaTilewale" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <a href="https://github.com/AtharvaTilewale" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="35" alt="GitHub" style="filter: invert(100%);"/>
   </a>
 
   <!-- ResearchGate -->
-  <a href="https://www.researchgate.net/profile/YourProfile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="40" alt="ResearchGate"/>
+  <a href="https://www.researchgate.net/profile/YourProfile" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" height="35" alt="ResearchGate" style="filter: invert(100%);"/>
   </a>
 
   <!-- ORCID -->
-  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="40" alt="ORCID"/>
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" height="35" alt="ORCID" style="filter: invert(100%);"/>
   </a>
 
   <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="40" alt="Google Scholar"/>
+  <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" height="35" alt="Google Scholar" style="filter: invert(100%);"/>
   </a>
 </p>
 
