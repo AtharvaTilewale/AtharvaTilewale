@@ -112,14 +112,34 @@ Here are some of the open-source projects I'm passionate about.
 I'm always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to reach out!
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/atharvatilewale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
+
+  <!-- Email -->
   <a href="mailto:tilewale.atharva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Email"/>
   </a>
-  <a href="https://github.com/AtharvaTilewale">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- GitHub -->
+  <a href="https://github.com/AtharvaTilewale" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  </a>
+
+  <!-- ResearchGate -->
+  <a href="https://www.researchgate.net/profile/YourProfile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="40" alt="ResearchGate"/>
+  </a>
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="40" alt="ORCID"/>
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="40" alt="Google Scholar"/>
   </a>
 </p>
 
