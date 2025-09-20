@@ -92,7 +92,7 @@ Here are some of the open-source projects I'm passionate about.
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=tokyonight&cache_seconds=86400" alt="GitHub Profile Summary"/>
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=7&&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=4&no-frame=true" alt="GitHub Trophies" />
   <br><br>
 </div>
 
