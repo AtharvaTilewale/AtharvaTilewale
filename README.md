@@ -102,7 +102,10 @@ Here are some of the open-source projects I'm passionate about.
 </p>
 
 
-![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=AtharvaTilewale&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <img alt="github snake animation" src="dist/github-snake.svg" />
+</picture>
 
 </div>
 <br>
