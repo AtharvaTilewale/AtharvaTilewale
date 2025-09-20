@@ -15,9 +15,11 @@ jobs:
       contents: write
 
     steps:
+      
       - name: Checkout repository
         uses: actions/checkout@v3
-
+      - name: Create dist directory
+        run: mkdir -p dist
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -29,3 +31,10 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "chore: update snake animation"
+          add: "dist/*"
