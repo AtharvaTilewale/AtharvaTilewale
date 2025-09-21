@@ -18,54 +18,6 @@
 
 ## About Me
 
-<p>                                                                      
- 
- -{{--{{--{{--{-{---------------------------------{{-{{{-{--{{{{{{{-{ <br>
- {{{{{{{{-{{{{-{--{----{-------{--{--{{-{{{-{{{{-{{---{--{-{--{{-{{{{ <br>
- {{-------{-{--------------------------------------{--{--{--{-{-{{-{{ <br>
- {{{{{{{-{{-{-{--{{------------>>"    ""I>->----{--{-{-{-{-{{{{--{{{{ <br>
- {{{{-{-{{---------------->-"               I>---{--{---{{-{{---{{-{{ <br>
- {{{{--{--{{-{----{------I   -@@@@@@@M@M@Mdj  ">------{--{-{-{{{{{{{{ <br>
- {{{-{---{-----{----->->   a@MJcjcjj|jj||{|cJd> I>----{--{-{-{{{{{{{{ <br>
- {-{{-{{--{-{----{--->   @@dJcccjjjccjj||||{-|jj{I>----{-{-{{{{{{{{{- <br>
- {{{{-{{-{{---------"  a@aJcjjjj|j||jj||||{|{{{{|{{>->---{---{{{{{{{{ <br>
- {-{{-{{--{--{-----" J@aJcjjjjjjjccjjjjjjcj|{{->|>{{{--{-{-{{{{{{{{{{ <br>
- {{{{{--{--{----->> c@Jcccccccccjccccjjjj|j|{->>>-->{{---{-{{-{{{{{{{ <br>
- -{{{{-{-{{----->-I @dccccccJccJJccjcjJcOccj|{{{---->------{{{{{{{{{{ <br>
- {{{--{{----------  @OccJcJJJJccccccjjjjc|j|j{{{->>--I{--{-{{{{-{{{{{ <br>
- {{-{{-{-{-{------  @JJcJJcj|jj||jjjjjjj{{--{--I>-III"{----{--{{{-{{{ <br>
- -{--{{-{{{-{----- -@ccc-       "I>{{{{{-"         "I |-----{{{{{{{{{ <br>
- {{{{{{{--{----->- -@j|{J@@@@@@@MaJjjcJOa@@@@@@@@@j " |----{-{{{{{{{{ <br>
- {--{---------->    M{Jd|-I""-daM@@adMM@OJcj>""I   "  I">-----{-{{{-{ <br>
- {{{-{{{--{--->I @@@ajjcd@|O@@aM@adOJ| -@@@@@@@I M"  {@  -----{-{-{-{ <br>
- --{----{----->" @aj-jcdM@@>@@@-@@@c{{ a@@{|@@- jjJ-  |@ --{-{--{{{-{ <br>
- {{-{{-{-------" @d@{ccj|{Jadd@@OJj{cj  |@@@OJ|   |{  @I -----{{-{{{{ <br>
- ------------>-I @@@-{||{||cJOj>{jcjjc     JdJ|>>|{I  @O >-----{--{-{ <br>
- {{---------->-> a@dj{jc|||{---jac{{{{" >    {cOj{>"  ca >----{--{--- <br>
- -{--{-{-------> a@@@{dJc|||||Jc  ">|d    @O-{-{|--> cM| --------{-{- <br>
- --{-{----------  j @Jjjcj||jcJOM@aOdM >O JMdc-I->I" aa I--{--{{---{{ <br>
- {{----{------>->   @@ccjcjcc|>I>Oad>I> >->{cj|-I"""{" I---------{--- <br>
- ---{-------------> -@aj{|cc{I-c@@@@@@@@@{   j{>   jcI>-------{--{--- <br>
- -{{--{--------->->  @@MMccj@@@@J|>"    {Jaa|>{  "|j{">--------{-{-{{ <br>
- -{-{--{----------->  @@MOjcM@@dda@@@@@@j@@@@J- >JdM >->-->---------- <br>
- {--{-{-----{------>I j@@cccj----I         c@a|Ij|@I ------{-----{--- <br>
- -{{---{-------->--->  c@@jjcJJOM@@@@@Jcj--"jc  O@- I---------------- <br>
- -{{{-{--------->--->>  @@@Mj{{{|jJ@@a@@dJjjj{IO@I I>>-------------{- <br>
- ------{>--------->>>   aM@@@Mdj>>>-|I"   "-{@@J  I->---------------- <br>
- ------------------"  OJ@{|@@@@aMMaaaMddJ|jc@@  a  >-->-------------- <br>
- ------------>-->"   @ >@d||O@@@@@@@@@@@@JJd  " @a  I>------->------- <br>
- --{--------->     @@@  O@dj||jM@@@@@@@M-{  "@" I@{   >>>------------ <br>
- --------I      @@@@@@    @@OjccccJc"     -@@   @@-aM     ">->------> <br>
- --->>     j@@@@@@aa@@  I  c@@OjcOOc{> {@@@     @JI{O@@@O     I>-->-- <br>
-       j@@@@@@MaaaaaM@  >>"  j@@Ojjjc@@@@   "  c@>I-|jjM@@@@O      I> <br>
- {@@@@@@@@@MaddaddaaM@a I>>>"  {@@@@@@j   I>"  @@c-I{|c||@@@@@@M"     <br>
-O@@@@@MM@MMMMdddaMaMM@@  >-I            ">II  -@MJ@{I>JO I@@MM@@@@@@@ <br>
--MMaMMaMaaaaM@@aaMaaa@@  >"  M@@@@@@@@-  ""   @@OJO@@- {jM@@MMMadadOa <br>
-|aMMaMaaaaaadaaaaaaaa@@"   j@@@@aM@MOj@@      @@cJdM@J@@@addMMaMaaadd <br>
-|aaaaaaaaaaaMaaaaaaaa@@I"I@@I-@@MM@a> @@@@   @@OcJdddcMM|JaadaMaaaddd <br>
-|aaaaaaaaMaaaaaaaaaaa@@ "- >  I@@@@ {@adOJ@J @@JcJOdOOaMaJ @dddaaaadd <br>
-</p>
-
 I'm a **Biotechnologist and Computational Biologist** with a passion for turning complex biological data into actionable insights. My work focuses on **drug discovery, protein engineering, and molecular dynamics simulations**. I enjoy building open-source tools that empower researchers and accelerate scientific discovery.
 
 > **My Vision**: To design AI-powered pipelines and platforms that accelerate drug discovery, genome analysis, and systems biology — making breakthroughs in healthcare and biotechnology more accessible.
