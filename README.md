@@ -73,7 +73,13 @@ Here are some of the open-source projects I'm passionate about.
 
 <p align="center">
   <a href="https://github.com/AtharvaTilewale/Boltz-Notebook">
-    <img title="Boltz-Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Boltz-Notebook&theme=tokyonight&t=20&cache_seconds=864000">
+    <img title="Boltz2-Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=boltz2-notebook&theme=tokyonight&t=20&cache_seconds=864000">
+  </a>
+  <a href="https://github.com/AtharvaTilewale/Boltz-Notebook">
+    <img title="GRAVITy" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=GRAVITy&theme=tokyonight&t=20&cache_seconds=864000">
+  </a>
+  <a href="https://github.com/AtharvaTilewale/Boltz-Notebook">
+    <img title="GRAVITy-Web" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=GRAVITy-Web&theme=tokyonight&t=20&cache_seconds=864000">
   </a>
   <a href="https://github.com/AtharvaTilewale/Genome-Inspector">
     <img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome-Inspector&theme=tokyonight&t=20&cache_seconds=864000">
