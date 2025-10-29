@@ -107,7 +107,6 @@ Here are some of the open-source projects I'm passionate about.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&custom_title=Atharva's%20Contribution%20Graph&hide_border=true&border_radius=20&bg_color=0D1117&color=5E60CE&line=7400B8&point=6930C3&area_color=5390D9&title_color=4EA8DE&area=true&height=400&cache_seconds=86400" alt="GitHub Activity Graph" " />
 </p>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <img alt="github snake animation" src="dist/github-snake.svg" />
