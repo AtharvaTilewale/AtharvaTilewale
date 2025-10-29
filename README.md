@@ -78,12 +78,12 @@ Here are some of the open-source projects I'm passionate about.
   <a href="https://github.com/AtharvaTilewale/GRAVITy">
     <img title="GRAVITy" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=GRAVITy&theme=tokyonight&t=20&cache_seconds=864000">
   </a>
-  <a href="https://github.com/AtharvaTilewale/GRAVITy_Web">
+  <!-- <a href="https://github.com/AtharvaTilewale/GRAVITy_Web">
     <img title="GRAVITy-Web" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=GRAVITy_Web&theme=tokyonight&t=25&cache_seconds=864000">
   </a>
   <a href="https://github.com/AtharvaTilewale/Genome_Inspector_Web">
     <img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome_Inspector_Web&theme=tokyonight&t=20&cache_seconds=864000">
-  </a>
+  </a> -->
 </p>
 <br>
 
