@@ -93,12 +93,12 @@ Here are some of the open-source projects I'm passionate about.
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </div><br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=86400" alt="Atharva's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&t=21&cache_seconds=864000" alt="Atharva's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight&hide_border=true&t=21&cache_seconds=864000" alt="Top Languages" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=tokyonight&cache_seconds=86400" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=tokyonight&t=21&cache_seconds=864000" alt="GitHub Profile Summary"/>
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=6&no-frame=true&rank=-?" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=6&no-frame=true&rank=-?&t=21&cache_seconds=864000" alt="GitHub Trophies" />
   <br><br>
 </div>
 
