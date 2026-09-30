@@ -1,135 +1,154 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:5e60ce,50:7400b8,75:6930c3,100:4ea8de&height=200&section=header&text=Atharva%20Tilewale&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20the%20tooling%20layer%20for%20computational%20structural%20biology&descAlignY=56&descAlign=50" alt="Atharva Tilewale"/>
-</div>
+
+<!-- # <div align="center"> Welcome to Atharva's Digital Universe </div> -->
 
 <div align="center">
-  <a href="https://www.ed.ac.uk/"><img src="https://img.shields.io/badge/University_of_Edinburgh-4ea8de?style=flat-square&labelColor=0d1117"/></a>
-  <a href="https://atharvatilewale.github.io"><img src="https://img.shields.io/badge/atharvatilewale.github.io-6930c3?style=flat-square&labelColor=0d1117"/></a>
-  <a href="https://doi.org/10.64898/2026.09.18.752645"><img src="https://img.shields.io/badge/bioRxiv-preprint-b31b1b?style=flat-square&labelColor=0d1117"/></a>
-  <a href="https://pypi.org/project/smilesherlock/"><img src="https://img.shields.io/pypi/v/smilesherlock?style=flat-square&label=PyPI&color=7400b8&labelColor=0d1117"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,30:7400b8,60:6930c3,100:4ea8de&height=200&section=header&text=Atharva%20Tilewale&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Biotechnologist%20%7C%20Bioinformatician%20%7C%20Computational%20Biologist&descAlignY=51&descAlign=center" alt="Header"/>
 </div>
+<!-- # Hi 👋, I'm Atharva Tilewale
+### Biotechnologist | Bioinformatician | Computational Biologist -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&size=22&pause=1000&color=3393FF&center=true&dynamicWidth=true&width=800&lines=Passionate+about+Drug+Discovery+%26+MD+Simulations;Developer+of+Open-Source+Bioinformatics+Tools;Exploring+the+intersection+of+AI+%2B+Computational+Biology" alt="Typing SVG" />
+  </a>
+</div>
+
+</div>
+
+## About Me
+
+I'm a **Biotechnologist and Computational Biologist** with a passion for turning complex biological data into actionable insights. My work focuses on **drug discovery, protein engineering, and molecular dynamics simulations**. I enjoy building open-source tools that empower researchers and accelerate scientific discovery.
+
+> **My Vision**: To design AI-powered pipelines and platforms that accelerate drug discovery, genome analysis, and systems biology — making breakthroughs in healthcare and biotechnology more accessible.
 
 <br>
 
+## Skills & Technologies
+
+This is my tech stack—the tools and technologies I use to build, analyze, and innovate. <br>
+
+<p align="center">
+  <strong>Bioinformatics & Computational Biology</strong>
+</p>
+<p align="center">
+  <a href="#"><img alt="Biopython" src="https://img.shields.io/badge/Biopython-a73b4e?style=for-the-badge"></a>
+  <a href="#"><img alt="GROMACS" src="https://img.shields.io/badge/GROMACS-0072C6?style=for-the-badge&logo=gromacs&logoColor=white"></a>
+  <a href="#"><img alt="MDAnalysis" src="https://img.shields.io/badge/MDAnalysis-FF7A00?style=for-the-badge"></a>
+  <a href="#"><img alt="Schrödinger" src="https://img.shields.io/badge/Schrödinger-005F99?style=for-the-badge&logo=schrodinger&logoColor=white"></a>
+</p>
+
+
+<!-- Data Science & AI -->
+<p align="center">
+  <strong>Data Science & AI</strong>
+</p>
+<p align="center">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge"></a>
+</p>
+
+<!-- Developer Tools & Platforms -->
+<p align="center">
+  <strong>Developer Tools & Platforms</strong>
+</p>
+<p align="center">
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Conda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+</p>
+
+<br>
+
+## Featured Projects
+
+Here are some of the open-source projects I'm passionate about.
+
+<p align="center">
+  <a href="https://github.com/AtharvaTilewale/Boltz2-Notebook">
+    <img title="Boltz2-Notebook" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=boltz2-notebook&theme=tokyonight&t=20&cache_seconds=864000">
+  </a>
+  <a href="https://github.com/AtharvaTilewale/GRAVITy">
+    <img title="GRAVITy" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=GRAVITy&theme=tokyonight&t=20&cache_seconds=864000">
+  </a>
+  <!-- <a href="https://github.com/AtharvaTilewale/GRAVITy_Web">
+    <img title="GRAVITy-Web" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=GRAVITy_Web&theme=tokyonight&t=25&cache_seconds=864000">
+  </a>
+  <a href="https://github.com/AtharvaTilewale/Genome_Inspector_Web">
+    <img title="Genome Inspector" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTilewale&repo=Genome_Inspector_Web&theme=tokyonight&t=20&cache_seconds=864000">
+  </a> -->
+</p>
+<br>
+
+## GitHub Stats & Activity Dashboard
+
 <div align="center">
-
-Most computational biology dies in the gaps between tools — a format that doesn't convert,
-a GROMACS flag nobody documented, an analysis step that takes a week to get right once.
-**I build the pieces that close those gaps**, and I publish them so the next person doesn't repeat the week.
-
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</div><br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&t=21&cache_seconds=864000" alt="Atharva's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight&hide_border=true&t=21&cache_seconds=864000" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaTilewale&theme=tokyonight&t=21&cache_seconds=864000" alt="GitHub Profile Summary"/>
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaTilewale&theme=tokyonight&margin-w=10&margin-h=10&column=6&no-frame=true&rank=-?&t=21&cache_seconds=864000" alt="GitHub Trophies" />
+  <br><br>
 </div>
 
----
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&theme=tokyonight&hide_border=true&area=true&line=3393FF" alt="Contribution Graph" />-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaTilewale&custom_title=Atharva's%20Contribution%20Graph&hide_border=true&border_radius=20&bg_color=0D1117&color=5E60CE&line=7400B8&point=6930C3&area_color=5390D9&title_color=4EA8DE&area=true&height=400&t=21&cache_seconds=864000" alt="GitHub Activity Graph" " />
+</p>
 
-## The pipeline I've been building
-
-```
-   ┌──────────────┐      ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
-   │   PREPARE    │ ───▶ │   PREDICT    │ ───▶ │   SIMULATE   │ ───▶ │   ANALYSE    │
-   └──────────────┘      └──────────────┘      └──────────────┘      └──────────────┘
-                                                                     
-    SmileSherlock          Boltz2-Notebook        GRAVITy              ConformAtlas
-    Genome Inspector       NiV-G Binders          GROMACS · CUDA       FELBuilder
-                                                                     
-    SMILES → structure     sequence → fold        ns of dynamics       PCA · free energy
-    PubChem · RDKit        Boltz-2 · BoltzGen     automated, resumable  publication plots
-```
-
-<sub><i>Four stages, four tools — each one written because the manual version cost me a week.</i></sub>
-
----
-
-## Shipped & citable
-
-<table>
-<tr>
-<td width="33%" align="center">
-<a href="https://doi.org/10.64898/2026.09.18.752645"><b>bioRxiv preprint</b></a><br>
-<sub>Boltz2-Notebook</sub><br><br>
-<code>10.64898/2026.09.18.752645</code>
-</td>
-<td width="33%" align="center">
-<a href="https://pypi.org/project/smilesherlock/"><b>PyPI package</b></a><br>
-<sub>SmileSherlock</sub><br><br>
-<code>pip install smilesherlock</code>
-</td>
-<td width="33%" align="center">
-<a href="https://doi.org/10.5281/zenodo.22132214"><b>Zenodo DOI</b></a><br>
-<sub>archived release</sub><br><br>
-<code>10.5281/zenodo.22132214</code>
-</td>
-</tr>
-</table>
-
----
-
-## What each one actually does
-
-**[Boltz2-Notebook](https://github.com/AtharvaTilewale/boltz2-notebook)** · `16★` · Python
-> Structure prediction and binding affinity with **Boltz-2**, in Colab. No GPU, no environment, no install — which is the entire point. Has a preprint behind it.
-
-**[ConformAtlas](https://github.com/AtharvaTilewale/ConformAtlas)** · Python · CI
-> MD ensemble characterisation: PCA and free-energy landscapes, either through GROMACS or by streaming the trajectory directly. The rigorous successor to FELBuilder.
-
-**[GRAVITy](https://github.com/AtharvaTilewale/GRAVITy)** · Shell
-> *GROMACS Rapid Analysis and Visualization Interface Tool.* Preparation, minimisation, equilibration, production and error handling as one pipeline — plus a [browser version](https://github.com/AtharvaTilewale/GRAVITy_Web) with live 3D visualisation.
-
-**[NiV-G Binder Designs](https://github.com/AtharvaTilewale/adaptyv-niv-g-binder-designs)** · Protein design
-> De novo binders against Nipah virus glycoprotein G for the Adaptyv competition. BoltzGen targeted design, RFdiffusion + SolMPNN blind design, ProteinMPNN receptor mimicry — filtered on RMSD, pLDDT, pTM, ipTM and ipSAE against an MD-defined epitope. Released as a citable dataset.
-
-**[SmileSherlock](https://github.com/AtharvaTilewale/SmileSherlock)** · Python · on PyPI
-> SMILES validation and canonicalisation, PubChem lookup, 2D/3D structure generation offline via RDKit. Six input formats, because chemical data never arrives in the one you want.
-
-**[FELBuilder](https://github.com/AtharvaTilewale/FELBuilder)** · Python · **[Genome Inspector](https://github.com/AtharvaTilewale/Genome-Inspector)** · Python · **[mdplots](https://github.com/AtharvaTilewale/mdplots)** · Python
-> Single-command FEL plots · DNA analysis on the [desktop](https://github.com/AtharvaTilewale/Genome-Inspector) and in the [browser](https://github.com/AtharvaTilewale/Genome_Inspector_Web) · trajectory plotting helpers.
-
----
-
-## Working set
-
-<div align="center">
-
-`GROMACS` `OpenMM` `PyMOL` `ChimeraX` `MDAnalysis` `RDKit` · **simulation & structure**
-
-`Boltz-2` `BoltzGen` `AlphaFold` `RFdiffusion` `ProteinMPNN` `PyTorch` `CUDA` · **design & prediction**
-
-`Python` `Biopython` `NumPy` `pandas` `Matplotlib` `R` · **analysis**
-
-`Linux` `Bash` `Git` `Conda` `Modal` `Colab` · **where it runs**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <img alt="github snake animation" src="dist/github-snake.svg" />
+</picture>
 
 </div>
+<br>
+
+## Let's Connect
+
+I'm always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharvatilewale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tilewale.atharva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AtharvaTilewale">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+> ⭐️ *"Turning biological complexity into computational clarity."*
 
 ---
+<br>
+
+## Support My Work
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution landscape" width="100%"/>
+  <a href="https://www.buymeacoffee.com/atharva16at">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+  </a>
+  <!-- <a href="https://www.paypal.me/AtharvaTilewale" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png" height="50" width="210" alt="PayPal Donate"/>
+  </a> -->
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AtharvaTilewale&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&hide_title=true&cache_seconds=86400" alt="stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaTilewale&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="languages"/>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg"/>
-    <img alt="contribution snake" src="dist/github-snake.svg"/>
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-### If you're working on protein design, MD, or the tooling around them — talk to me.
-
-<a href="https://www.linkedin.com/in/atharvatilewale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tilewale.atharva@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://atharvatilewale.github.io"><img src="https://img.shields.io/badge/Website-6930c3?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.buymeacoffee.com/atharva16at"><img src="https://img.shields.io/badge/Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ea8de,25:6930c3,50:7400b8,80:5e60ce,100:0d1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,30:7400b8,60:6930c3,100:4ea8de&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer"/>
 </div>
